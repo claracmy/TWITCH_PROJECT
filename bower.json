@@ -1,0 +1,17 @@
+{
+  "name": "twitch-project",
+  "description": "matchmaking for twitch streamers",
+  "main": "index.js",
+  "authors": ["Clara Cheung"],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests"],
+  "dependencies": {
+    "angular-resource": "^1.6.4",
+    "angular-ui-router": "^1.0.4",
+    "satellizer": "^0.15.5"
+  },
+  "resolutions": {
+    "angular": "^1.6.3"
+  }
+}
